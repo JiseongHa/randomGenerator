@@ -1,0 +1,23 @@
+.container{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	width: 80vx;
+
+}
+input{
+	text-align: center;
+}
+
+div.fortune{
+	display: inline-block;
+	margin-top: 300px;
+	border: 1px black solid;
+	padding: 50px;
+}
+
+span.name{
+	display: inline-block;
+}
+
+
